@@ -1,6 +1,6 @@
 # hfpbc-code
 
-----Huygens-Fresnel Principle Based Calculations (HFBC)----
+---- **Huygens-Fresnel Principle Based Calculations (HFBC)** ----
 
 The source code of the HFPBC technique described in detail in the manuscript "Self-Imaging Based Programmable Spin-Wave Lookup Tables" published in *Advanced Electronic Materials*, ed. Wiley in July 2022 (DOI:10.1002/aelm.202200373).
 
