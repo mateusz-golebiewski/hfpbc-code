@@ -13,6 +13,9 @@ hfpbc_code.ipynb - source code written in Jupyter Notebook (Python)
 
 mumax3PP - a package of auxiliary Python programs used in the source code to post-process simulation files from the Mumax3 software in the .ovf format  
 
-point_source_40GHz.go - program written in the Go language interpreted by the Mumax3 software to micromagnetic simulation of a spin-wave propagation from a point source  
+point_source_40GHz.go - program written in the Go language interpreted by the Mumax3 software to micromagnetic simulation of a spin-wave propagation from a point source 
+
+Here is a link to the results package from the above micromagnetic simulation:  
+https://uam-my.sharepoint.com/:u:/g/personal/matgol2_amu_edu_pl/EQ4eSyOdattMiEpZk9TUFFsBZWgzeiC7p5D-VjkJ7x-Gyg?e=EzQRxd
 
 In case of any questions, please contact the *corresponding author (MG): mateusz.golebiewski@amu.edu.pl
